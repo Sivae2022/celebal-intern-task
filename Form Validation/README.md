@@ -24,12 +24,11 @@ In **Week 1**, I created a responsive and validated registration form using **Re
 
 ### 📸 Screenshots
 
-| Registration Form | Success Page |
-|-------------------|--------------|
+#### 📄 Registration Form
+![Registration Form](form-validation/src/assets/image.png)
 
-[[Form Validation\src\assets\image.png]]
-
-[[Form Validation\src\assets\image1.png]]
+#### ✅ Success Page
+![Success Page](form-validation/src/assets/image1.png)
 
 ---
 
@@ -48,7 +47,7 @@ In **Week 1**, I created a responsive and validated registration form using **Re
 git clone https://github.com/Sivae2022/celebal-intern-task.git
 
 # Navigate to the project folder
-cd Form\ Validation
+cd form-validation
 
 # Install dependencies
 npm install
