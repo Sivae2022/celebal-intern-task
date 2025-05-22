@@ -1,12 +1,57 @@
-# React + Vite
+# 🌐 Celebal Tech - Intern Tasks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my internship repository at **Celebal Tech**! This repo contains the tasks and assessments completed as part of my internship program.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✅ Week 1: Form Validation with React 🚀
 
-## Expanding the ESLint configuration
+### 🔍 Overview
+In **Week 1**, I created a responsive and validated registration form using **React** and **Tailwind CSS**, with dynamic country-city selection, Aadhar/PAN validation, and toast notifications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ✨ Features
+- 📝 User registration form with 10+ fields  
+- 🔐 Password toggle with eye icon  
+- ✅ Client-side validation for all inputs  
+- 🌍 Country & city dropdown (dynamic options)  
+- 🧾 Aadhar & PAN format validation  
+- 🚨 Real-time error messages  
+- 🎉 Success page with submitted data  
+- 🍞 Toast notifications (via `react-toastify`)  
+- 🎨 Gradient background and modern UI styling
+
+---
+
+### 📸 Screenshots
+
+| Registration Form | Success Page |
+|-------------------|--------------|
+
+[[Form Validation\src\assets\image.png]]
+
+[[Form Validation\src\assets\image1.png]]
+
+---
+
+### 🛠 Tech Stack
+- React  
+- Tailwind CSS  
+- React Router  
+- React Toastify  
+
+---
+
+### 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Sivae2022/celebal-intern-task.git
+
+# Navigate to the project folder
+cd Form\ Validation
+
+# Install dependencies
+npm install
+
+# Start the app
+npm run dev
