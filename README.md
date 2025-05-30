@@ -1,4 +1,4 @@
-<h1 align="center" id="title">TODO</h1>
+<h1 align="center" id="title">TODO - CELEBAL TECHNOLOGY TASK </h1>
 
 <p id="description">Todo app Build using MERN Stack. Allowing to Creating Todo list, Update and Delete Todo list within app.</p>
 
